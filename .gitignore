@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 data/
+data_label/
+data_label_fin/
 tweet/key.py
