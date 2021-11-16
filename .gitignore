@@ -131,4 +131,7 @@ dmypy.json
 data/
 data_label/
 data_label_fin/
+data_label_fin2/
+data_label_fin3/
+final/
 tweet/key.py
